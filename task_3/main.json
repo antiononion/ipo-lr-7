@@ -1,0 +1,30 @@
+[{"id": 1,
+"name":"Рыба Клоун",
+"latin_name": "Amphiprion",
+"is_salt_water_fish": true,
+"sub_type_count": "123"
+},{
+"id": 2,
+"name":"Рыба Капля",
+"latin_name": "Psychrolutes Marcidus",
+"is_salt_water_fish": true,
+"sub_type_count": "3"
+},{
+"id": 3,
+"name":"Рыба Фугу",
+"latin_name": "Takifugu",
+"is_salt_water_fish": true,
+"sub_type_count": "67" 
+},{
+"id": 4,
+"name":"Крылатка-Зебра",
+"latin_name": "Pterois Volitans",
+"is_salt_water_fish": true,
+"sub_type_count": "22" 
+},{
+"id": 5,
+"name":"Акула",
+"latin_name": "Selachimorpha",
+"is_salt_water_fish": true,
+"sub_type_count": "100" 
+}]
